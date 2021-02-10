@@ -1,0 +1,6 @@
+{
+    "python.linting.mypyEnabled": false,
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "/Users/benjaminrumble/.local/share/virtualenvs/supercookie-python-295GwgH9/bin/python"
+}
